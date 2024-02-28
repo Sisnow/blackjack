@@ -7,9 +7,9 @@
 
 <p align="center">
 
-  <a href="https://github.com/shaojintian/Best_README_template/">
+
     <img src="example.png">
-  </a>
+
 
   <h3 align="center">21点游戏</h3>
 
